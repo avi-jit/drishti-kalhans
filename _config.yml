@@ -4,8 +4,8 @@ remote_theme: wowthemesnet/mediumish-theme-jekyll
 name: "Drishti Kalhans"
 title: "Drishti Kalhans"
 description: "My personal blogspace."
-logo: 'img.png'
-favicon: 'favico.png'
+logo: '/img.png'
+favicon: '/favico.png'
 baseurl: /mediumish-theme-jekyll
 #google_analytics: 'UA-46278016-1'
 #disqus: 'demowebsite'
