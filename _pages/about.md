@@ -19,7 +19,7 @@ comments: true
 
 <p>Let me know if you liked my ideas!</p>
 
-<a target="_blank" href="[https://www.wowthemes.net/donate/](https://www.instagram.com/drishtikal_hans/)" class="btn btn-danger">Instagram</a> <a target="_blank" href="mailto:dk23drishti@gmail.com" class="btn btn-warning">Email me</a>
+<a target="_blank" href="https://www.instagram.com/drishtikal_hans/" class="btn btn-danger">Instagram</a> <a target="_blank" href="mailto:dk23drishti@gmail.com" class="btn btn-warning">Email me</a>
 
 </div>
 </div>
