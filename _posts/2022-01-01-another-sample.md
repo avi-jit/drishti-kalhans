@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Red Riding Hood"
+title:  "A sample post!"
 author: drishti
-categories: [ Jekyll, tutorial ]
+categories: [ Visual, Personal ]
 image: images/img.jpg
 ---
 
